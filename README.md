@@ -1,57 +1,14 @@
-# ExpoVerse Template
+Grupo GJM
 
-## Sobre o desafio
-Template oficial do desafio ExpoVerse do Hackathon Web3 RESTIC 29.
+Guilherme Souza Leme
+Jorge Luiz da Silva Junior
+Michel Diego Pinto de Castro e Silva
 
-## Objetivo
-Construir experiências virtuais imersivas, navegáveis e interativas utilizando tecnologias XR, WebGL ou ambientes 3D.
+HackWeb 3.0 - Centro de treinamento imersivo
 
-## Exemplos de aplicação
-- Museu virtual
-- Loja imersiva
-- Feira virtual
-- Tour 3D
-- Galeria digital
-- Espaço educacional
-- Experiência gamificada
+Abaixo seguem os links para acessar as entregas
 
-## Tecnologias sugeridas
-- Three.js
-- React Three Fiber
-- Babylon.js
-- A-Frame
-- Unity WebGL
-- Blender
-- WebXR
-- Next.js
-
-## Estrutura
-/src
-/public
-/assets
-/docs
-/scenes
-/models
-/textures
-
-## Como executar
-
-### Instalar dependências
-```bash
-npm install
-```
-
-### Rodar aplicação
-```bash
-npm run dev
-```
-
-## Requisitos mínimos
-- Ambiente navegável
-- Interação básica
-- Fluxo funcional
-- README funcional
-- Vídeo-pitch
-
-## Equipe
-Adicionar integrantes aqui.
+Github com o que foi desenvolvido no Unity - https://github.com/jorgejr100/Projeto_GJM_Hackathon 
+Apresentação de Slides - https://drive.google.com/file/d/1dDIrNIScfRFp3Flw9fs89ixGLL6O_Lud/view?usp=sharing 
+Video Pitch - https://youtu.be/DDrlTqaN1OU
+Video demonstrativo do que foi desenvolvido no Unity - https://youtu.be/oDLkNS1r54E
